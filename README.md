@@ -1,5 +1,7 @@
 CARA MENJALANKANNYA
 
+download TES_IT.rar dan database test.sql
+
 1.	Buat Database dengan Nama (  test   )
 2.	Lalu export inport data test.sql didalam database tersebut. File tersebut terletak didalam file TES_IT.rar
 3.	Lalu tempatkan dan Extract file TES_IT.rar pada halaman Local Disk C:/xampp/htdock/
